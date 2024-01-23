@@ -1,6 +1,11 @@
-## Práctica de verano 2024
-### 💻 Algoritmos Genéticos: Un aprendizaje de máquina en ayuda a la cosmología.
-* **hub_data.txt:** Datos observacionales del parámetro de Hubble ordenados según el redishift (z).
-* **lcparam_full_long.txt:** Datos observacionales obtenidos en [Pantheon](https://github.com/dscolnic/Pantheon). Una tabla de parámetros clave recuperados de los ajustes de la curva de luz para la muestra completa de Pantheon.
-* **Datos_hub_data.ipynb:** Gráficos de $D_L$ y $H(z)$ obtenidos a partir de los datos de hub_data.txt y su concordancia con la ecuación teórica.
-* **Datos_lcparam_full_long.ipynb:** Gráficos con los datos de $D_L$ y $H(z)$ obtenidos a partir de los datos de lcparam_full_long.txt y su concordancia con la ecuación teórica.
+<span style="font-family: 'Arial';">This is in Arial font.</span>
+
+## Summer practice, DFI 2024
+### 💻 Genetic Algorithms: Machine Learning in Aid of Cosmology.
+* **hub_data.txt:** Observational data of the Hubble parameter ordered by redshift (z).
+* **lcparam_full_long.txt:** Observational data obtained from [Pantheon](https://github.com/dscolnic/Pantheon). A table of key parameters retrieved from the light curve fits for the entire Pantheon sample. [Pantheon](https://github.com/dscolnic/Pantheon).
+* **Datos_hub_data.ipynb:** Plots of $D_L$ and $H(z)$ obtained from the hub_data.txt data and their agreement with the theoretical equation.
+* **Datos_lcparam_full_long.ipynb:** Plots with the $D_L$ and $H(z)$ data obtained from lcparam_full_long.txt data and their agreement with the theoretical equation.
+* **GA.ipynb:** Genetic algorithm developed from base functions and operators.
+* **GA_sympy.ipynb:** Copy of GA.ipynb but with fitness function calculation using sympy expressions.
+* **GA_class.ipynb:** Genetic algorithm developed using the 'individual' and 'population' classes.
